@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
 <!-- NOM AFFICHER SUR LE LAUNCHER -->
-<name>Symphonia</name>
+<name>M-Launcher</name>
 <!-- ICON DU LAUNCHER  -->
-<icon>https://raw.githubusercontent.com/Asafusa/ImSombre_Launcher/main/assets/logo.png</icon>
+<icon>https://raw.githubusercontent.com/Asafusa/MLauncher/main/assets/logo.png</icon>
 <!-- BACKGROUND DU LAUNCHER -->
-<background>https://raw.githubusercontent.com/Asafusa/ImSombre_Launcher/main/assets/Background.png</background>
+<background>https://raw.githubusercontent.com/Asafusa/MLauncher/main/assets/Background.png</background>
 <!-- EXECUTABLE DOFUS DU LAUNCHER -->
 <executable>Dofus.exe</executable>
 <!-- SERVER DE DOWNLOAD  -->
-<download>http://94.131.119.217/launcher/upload/</download>
+<download>http://votre-site/launcher/upload/</download>
 <!-- XML LINK  -->
-<linkxml>https://raw.githubusercontent.com/Asafusa/ImSombre_Launcher/main/xml/link.xml</linkxml>
+<linkxml>https://raw.githubusercontent.com/Asafusa/MLauncher/main/xml/link.xml</linkxml>
 <!-- XML NEWS -->
-<news>https://raw.githubusercontent.com/Asafusa/ImSombre_Launcher/main/xml/news.xml</news>
+<news>https://raw.githubusercontent.com/Asafusa/MLauncher/main/xml/news.xml</news>
 </config>
